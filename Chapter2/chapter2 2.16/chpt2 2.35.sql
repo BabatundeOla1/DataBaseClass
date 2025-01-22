@@ -1,0 +1,1 @@
+The built-in function count is used to counnt the total number of rows in the QuantityOnHand column, while the built-in function sum is used to sum all numbers i the QuantityOnHand
